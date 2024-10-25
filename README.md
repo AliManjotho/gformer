@@ -129,4 +129,5 @@ tensorboard --logdir=runs
 Now CTRL+Click http://localhost:6006/ or copy this address in browser
 ```
 ![Alt text](assets/tensorboard.png?raw=true "Launch Tensorboard")
-![Alt text](assets/graphs.png?raw=true "Tensorboard Visualization")
+![Alt text](assets/graph1.png?raw=true "Tensorboard Training Accuracy Visualization")
+![Alt text](assets/graph2.png?raw=true "Tensorboard Training Loss Visualization")
